@@ -14,4 +14,4 @@ feign.hystrix.enabled: true
 
 hazelcast.max.no.heartbeat.seconds: 6
 
-biz-application.name: hero-app
+hero-api.name: hero-api
