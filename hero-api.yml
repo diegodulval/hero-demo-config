@@ -2,7 +2,7 @@ endpoints.health.enabled: true
 
 spring:
   jpa:
-    hibernate.ddl-auto: update
+    hibernate.ddl-auto: create
     database-platform: org.hibernate.dialect.H2Dialect
   datasource:
     driverClassName: org.h2.Driver
